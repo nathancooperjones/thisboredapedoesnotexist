@@ -1,5 +1,7 @@
 # thisboredapedoesnotexist
 
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/31417712/143785778-69d93e1a-0210-4b8d-8f7a-d283989a0e4c.gif) 
+
 Code to fully reproduce the results for the blog post [These Bored Apes Do Not Exist]().
 
 View results at [thisboredapedoesnotexist.nathancooperjones.com](https://thisboredapedoesnotexist.nathancooperjones.com/).
