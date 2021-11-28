@@ -1,0 +1,8 @@
+# pinning relevant versions to ensure this can be re-run in the future
+# feel free to ignore if later versions are backwards compatible!
+fire
+lightweight-gan~=0.20.5
+numpy
+Pillow
+torch~=1.10.0
+tqdm

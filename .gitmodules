@@ -1,0 +1,6 @@
+[submodule "00_get_data/apebase"]
+	path = 00_get_data/apebase
+	url = https://github.com/skogard/apebase
+[submodule "02_super_resolution/Waifu2x"]
+	path = 02_super_resolution/Waifu2x
+	url = https://github.com/yu45020/Waifu2x.git
