@@ -26,4 +26,4 @@ This project would not be possible without:
 * Phil Wang's (AKA [lucidrains](https://github.com/lucidrains)) incredible work on [Lightweight GAN](https://github.com/lucidrains/lightweight-gan)!
 * [yu45020](https://github.com/yu45020)'s understandable port of [Waifu2x](https://github.com/yu45020/Waifu2x)!
 * Inspiration, motivation, and encouragement from Michael Sugimura (AKA sugi-chan on both [GitHub](https://github.com/sugi-chan) and [Medium](https://medium.com/@michaelsugimura)).
-* My partner [Jenna Blazi](https://jennasday.com/), who let me ramble about NFTs and this project for two weeks straight and (almost) never complaining about it.
+* My partner [Jenna Blazi](https://jennasday.com/), who let me ramble about NFTs and this project for two weeks straight and (almost) never complained about it.
