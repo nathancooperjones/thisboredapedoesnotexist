@@ -9,3 +9,6 @@ for i in *.png ; do convert "$i" "${i%.*}.jpg" ; done
 ```
 
 Good luck!
+
+### Here are some databases for other animals -
+
